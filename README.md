@@ -4,5 +4,3 @@
 - 🌱 I’m currently learning OpenGL.
 - 💬 Ask me about anything.
 - 📫 How to reach me: `ossian-winter@riseup.net`
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: I enjoy reading about bio chemistry :)
