@@ -1,4 +1,4 @@
-### Hi there :trollface:
+### Hi there 👋
 
 - 🔭 I’m currently working on [Iridian](https://iridian.cc).
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org/).
